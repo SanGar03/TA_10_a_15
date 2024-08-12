@@ -1,0 +1,19 @@
+.impar{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#dos{
+    color: blue;
+    font-size: 36px;
+}
+
+#cuatro{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.tres{
+    font-size: 24px;
+}
